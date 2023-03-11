@@ -120,3 +120,27 @@ Atualiza as informações do item correspondente ao ID informado, que pertence �
 
 ### DELETE /order/remove
 Exclui o item correspondente ao ID informado, que pertence à ordem de serviço correspondente ao ID informado.
+
+#Contribuindo
+Se você deseja contribuir com este projeto, siga os passos abaixo:
+
+1. Faça um fork deste repositório.
+
+2. Crie uma branch para sua feature:
+
+```
+git checkout -b minha-feature
+```
+3. Implemente as mudanças necessárias.
+4. Faça commit das suas alterações:
+```
+Faça commit das suas alterações:
+```
+5. Faça push para a sua branch:
+```
+git push origin minha-feature
+```
+6. Crie um Pull Request para a branch main deste repositório.
+
+#Licença
+Este projeto utiliza a licença MIT. Para mais informações, consulte o arquivo LICENSE.md.
