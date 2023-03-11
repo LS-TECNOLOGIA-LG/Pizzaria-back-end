@@ -135,7 +135,7 @@ git checkout -b minha-feature
 3. Implemente as mudanças necessárias.
 4. Faça commit das suas alterações:
 ```
-Faça commit das suas alterações:
+git commit -m "Descrição das mudanças"
 ```
 5. Faça push para a sua branch:
 ```
